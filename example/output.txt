@@ -1,0 +1,3 @@
+References
+[1] Networks. CIAGAN: Conditional Identity Anonymization Generative Adversarial.
+[2] Pedro Martins, José Silvestre Silva and Alexandre Bernardino. Multispectral Facial Recognition in the Wild.
